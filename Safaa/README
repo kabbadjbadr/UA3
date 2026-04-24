@@ -1,0 +1,18 @@
+Travail de Safaa :
+•	Conception et implémentation de la classe EntrepotFichier pour la lecture du fichier CSV
+•	Implémentation de la méthode de sauvegarde des résultats dans un fichier CSV
+•	Développement de l’interface IPersistanceDonnees pour structurer l’accès aux données
+•	Gestion des exceptions (fichier introuvable, erreurs de lecture, format invalide)
+•	Validation des données issues du fichier CSV (notes invalides, lignes incorrectes)
+•	Implémentation de la logique de parsing des données CSV (séparation des colonnes)
+•	Gestion des cas particuliers (lignes vides, données manquantes)
+•	Participation à la conception de l’architecture du projet (séparation des responsabilités)
+•	Intégration des principes SOLID (responsabilité unique, abstraction via interface)
+•	Développement de la classe ValidateurSaisie pour la validation des entrées utilisateur
+•	Implémentation des contrôles de saisie (notes entre 0 et 100, texte valide)
+•	Participation aux tests du programme (lecture, sauvegarde, validation)
+•	Débogage et correction des erreurs liées aux fichiers et aux entrées utilisateur
+•	Contribution à la documentation du projet (README, contributions.txt)
+•	Participation à l’intégration du projet sur GitHub
+•	Collaboration avec Badr pour assurer la cohérence globale du projet
+•	Participation à la préparation de la présentation orale

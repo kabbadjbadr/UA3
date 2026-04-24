@@ -1,0 +1,18 @@
+Répartition des tâches – contributions.txt
+Projet 1 – Gestion de notes des étudiants  |  Programmation Avancée  |  Hiver 2026
+
+Contribution de chaque membre du groupe :
+
+Badr
+•	Gestion des étudiants
+•	Calcul des moyennes
+•	Affichage des résultats
+
+Safaa
+•	Lecture du fichier CSV
+•	Sauvegarde des résultats
+•	Validation des données
+
+Travail commun 
+•	Conception du projet
+•	Tests et corrections
